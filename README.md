@@ -1,5 +1,4 @@
-# Final Project Regression Case:
-## NYC Car Collisions and Injuries
+# Final Project Regression Case: NYC Car Collisions and Injuries
 
 **Author:** Helen Jeon
 
@@ -17,8 +16,7 @@
 
 ---
 
-### Research Question:
-#### Can we predict injury outcomes in NYC crashes?
+### Research Question: Can we predict injury outcomes in NYC crashes?
 
-1) What is the likelihood of injuries from a car crash in NYC?
-2) Which factors contribute to higher chance of injuries?
+1) What is the likelihood of injury occurring from a car crash?
+2) Which factors contribute to a higher chance of an injury?
