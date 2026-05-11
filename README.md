@@ -17,7 +17,7 @@
 **Data:** Motor Vehicle Collisions dataset obtained from NYC Open Data 
 (https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 
-***Research Question: Can we predict injury outcomes in NYC crashes?***
+**Research Question: Can we predict injury outcomes in NYC crashes?**
 
 **Presentation Video**
 https://youtu.be/mawGpF_v-NU
